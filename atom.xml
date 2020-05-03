@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dk-angela.github.io</id>
     <title>DK &amp; Angela</title>
-    <updated>2020-05-03T10:40:53.833Z</updated>
+    <updated>2020-05-03T10:57:28.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dk-angela.github.io"/>
     <link rel="self" href="https://dk-angela.github.io/atom.xml"/>
-    <subtitle>Our stories</subtitle>
+    <subtitle>우리 오래오래 행복하게 살자</subtitle>
     <logo>https://dk-angela.github.io/images/avatar.png</logo>
     <icon>https://dk-angela.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, DK &amp; Angela</rights>
