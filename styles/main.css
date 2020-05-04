@@ -4514,7 +4514,7 @@ div.text .wp-block-table {
 }
 #footer .logo {
   opacity: 0.8;
-  margin: 50px 20px 20px;
+  margin: 20px;
   text-align: center;
 }
 #footer .logo a i.fa {
@@ -4544,7 +4544,7 @@ div.text .wp-block-table {
 #footer .published {
   text-align: center;
   color: rgba(255, 255, 255, 0.5);
-  padding-bottom: 50px;
+  padding-bottom: 20px;
   font-size: 12px;
 }
 #footer .published a {

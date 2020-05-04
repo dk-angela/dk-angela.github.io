@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dk-angela.github.io</id>
     <title>DK &amp; Angela</title>
-    <updated>2020-05-03T12:10:46.258Z</updated>
+    <updated>2020-05-04T06:26:36.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dk-angela.github.io"/>
     <link rel="self" href="https://dk-angela.github.io/atom.xml"/>
@@ -10,6 +10,38 @@
     <logo>https://dk-angela.github.io/images/avatar.png</logo>
     <icon>https://dk-angela.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, DK &amp; Angela</rights>
+    <entry>
+        <title type="html"><![CDATA[My birthday in 2019]]></title>
+        <id>https://dk-angela.github.io/post/my-birthday-in-2019/</id>
+        <link href="https://dk-angela.github.io/post/my-birthday-in-2019/">
+        </link>
+        <updated>2019-08-26T13:52:47.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dk-angela.github.io/post-images/1588513976258.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://dk-angela.github.io/post-images/1588514032220.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://dk-angela.github.io/post-images/1588514038891.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T-shirt for DKPRESS]]></title>
+        <id>https://dk-angela.github.io/post/t-shirt-for-dkpress/</id>
+        <link href="https://dk-angela.github.io/post/t-shirt-for-dkpress/">
+        </link>
+        <updated>2019-08-24T13:55:51.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dk-angela.github.io/post-images/1588514426760.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://dk-angela.github.io/post-images/1588514492674.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Family Treat]]></title>
+        <id>https://dk-angela.github.io/post/family-treat/</id>
+        <link href="https://dk-angela.github.io/post/family-treat/">
+        </link>
+        <updated>2019-07-16T14:05:09.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dk-angela.github.io/post-images/1588515587203.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://dk-angela.github.io/post-images/1588515592702.jpg" alt="" loading="lazy"></figure>
+<p>Invite Eric and A-Lin to our home for dinner.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The barber Angela]]></title>
         <id>https://dk-angela.github.io/post/the-barber-angela/</id>
@@ -78,16 +110,6 @@
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dk-angela.github.io/post-images/1588505564405.jpg" alt="" loading="lazy"></figure>
 <p>Feb 6th, 2019.<br>
 On this day, we are together.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hi, Angela.]]></title>
-        <id>https://dk-angela.github.io/post/hi-angela/</id>
-        <link href="https://dk-angela.github.io/post/hi-angela/">
-        </link>
-        <updated>2019-02-06T14:22:22.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dk-angela.github.io/post-images/1588504407032.jpg" alt="" loading="lazy"></figure>
-<p>Nice to meet you.😉</p>
 ]]></content>
     </entry>
 </feed>
