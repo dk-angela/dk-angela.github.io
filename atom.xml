@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dk-angela.github.io</id>
     <title>DK &amp; Angela</title>
-    <updated>2020-06-25T04:28:06.248Z</updated>
+    <updated>2020-06-25T07:49:33.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dk-angela.github.io"/>
     <link rel="self" href="https://dk-angela.github.io/atom.xml"/>
@@ -70,6 +70,18 @@
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[August 2019 in An Shun]]></title>
+        <id>https://dk-angela.github.io/post/august-2019-in-an-shun/</id>
+        <link href="https://dk-angela.github.io/post/august-2019-in-an-shun/">
+        </link>
+        <updated>2019-08-25T07:47:21.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dk-angela.github.io/post-images/1593071268033.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://dk-angela.github.io/post-images/1593071274455.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://dk-angela.github.io/post-images/1593071281215.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://dk-angela.github.io/post-images/1593071287383.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[T-shirt for DKPRESS]]></title>
         <id>https://dk-angela.github.io/post/t-shirt-for-dkpress/</id>
         <link href="https://dk-angela.github.io/post/t-shirt-for-dkpress/">
@@ -110,16 +122,6 @@
         <updated>2019-04-12T12:07:49.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dk-angela.github.io/post-images/1588507824298.jpg" alt="" loading="lazy"></figure>
 <p>The barber Angela!</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xixi's Wedding]]></title>
-        <id>https://dk-angela.github.io/post/xixis-wedding/</id>
-        <link href="https://dk-angela.github.io/post/xixis-wedding/">
-        </link>
-        <updated>2019-04-11T11:55:25.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dk-angela.github.io/post-images/1588507636503.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://dk-angela.github.io/post-images/1588507645887.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
