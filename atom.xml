@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dk-angela.github.io</id>
     <title>DK &amp; Angela</title>
-    <updated>2020-06-25T02:24:57.159Z</updated>
+    <updated>2020-06-25T03:10:53.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dk-angela.github.io"/>
     <link rel="self" href="https://dk-angela.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://dk-angela.github.io/images/avatar.png</logo>
     <icon>https://dk-angela.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, DK &amp; Angela</rights>
+    <entry>
+        <title type="html"><![CDATA[ January 2020 in Kunming]]></title>
+        <id>https://dk-angela.github.io/post/january-2020-in-kunming/</id>
+        <link href="https://dk-angela.github.io/post/january-2020-in-kunming/">
+        </link>
+        <updated>2020-01-02T03:08:49.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dk-angela.github.io/post-images/1593054566144.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://dk-angela.github.io/post-images/1593054573265.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://dk-angela.github.io/post-images/1593054579150.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2019 in Beijing Day 4]]></title>
         <id>https://dk-angela.github.io/post/2019-in-beijing-day-4/</id>
@@ -106,15 +117,6 @@
         <updated>2019-04-07T11:47:25.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dk-angela.github.io/post-images/1588506451524.jpg" alt="" loading="lazy"></figure>
 <p>You look so happy, I love you. 💖</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBQ with Wang Yi]]></title>
-        <id>https://dk-angela.github.io/post/barbecue-restaurant-with-wang-yi/</id>
-        <link href="https://dk-angela.github.io/post/barbecue-restaurant-with-wang-yi/">
-        </link>
-        <updated>2019-04-07T11:40:28.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://dk-angela.github.io/post-images/1588506033324.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
